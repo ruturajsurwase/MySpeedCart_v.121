@@ -1,0 +1,250 @@
+15:33:52.045 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:33:52.057 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:33:52.059 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:33:52.337 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:33:52.432 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:33:52.436 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:33:52.438 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:33:52.450 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:33:52.465 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:33:52.466 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:33:52.467 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:33:52.476 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:33:52.499 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:33:52.500 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:33:52.502 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:33:52.515 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:33:52.532 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:33:52.533 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:33:52.534 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:33:52.542 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:33:52.559 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:33:52.560 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:33:52.562 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:33:52.572 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:33:52.586 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:33:52.587 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:33:52.588 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:33:52.597 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:33:52.619 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:33:52.620 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:33:52.622 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:33:52.634 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:33:52.649 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:33:52.650 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:33:52.651 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:33:52.658 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:33:52.672 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:33:52.673 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:33:52.675 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:33:52.683 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:33:52.698 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:33:52.699 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:33:52.700 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:33:52.708 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:33:52.722 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:33:52.723 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:33:52.724 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:33:52.733 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:33:52.749 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:33:52.751 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:33:52.752 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:33:52.760 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:33:52.775 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:33:52.776 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:33:52.777 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:33:52.784 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:33:52.800 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:33:52.801 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:33:52.802 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:33:52.810 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:33:52.837 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:33:52.839 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:33:52.841 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:33:52.852 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:33:52.871 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:33:52.873 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:33:52.874 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:33:52.884 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:33:52.902 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:33:52.903 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:33:52.905 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:33:52.917 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:33:52.942 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:33:52.943 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:33:52.944 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:33:52.954 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:33:52.973 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:33:52.975 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:33:52.976 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:33:52.987 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:33:53.022 [main] INFO  testCases.TC003_LoginDDT - ********* starting TC003_LoginDDT *********
+15:33:53.515 [main] INFO  testCases.TC003_LoginDDT - ********* Providing Credentilas to Login   *********
+15:33:55.404 [main] INFO  testCases.TC003_LoginDDT - ********* finished TC003_LoginDDT *********
+15:33:55.415 [main] INFO  testCases.TC003_LoginDDT - ********* starting TC003_LoginDDT *********
+15:33:55.881 [main] INFO  testCases.TC003_LoginDDT - ********* Providing Credentilas to Login   *********
+15:33:57.669 [main] INFO  testCases.TC003_LoginDDT - ********* finished TC003_LoginDDT *********
+15:33:57.674 [main] INFO  testCases.TC003_LoginDDT - ********* starting TC003_LoginDDT *********
+15:33:58.104 [main] INFO  testCases.TC003_LoginDDT - ********* Providing Credentilas to Login   *********
+15:33:59.968 [main] INFO  testCases.TC003_LoginDDT - ********* finished TC003_LoginDDT *********
+15:33:59.973 [main] INFO  testCases.TC003_LoginDDT - ********* starting TC003_LoginDDT *********
+15:34:00.423 [main] INFO  testCases.TC003_LoginDDT - ********* Providing Credentilas to Login   *********
+15:34:10.731 [main] INFO  testCases.TC003_LoginDDT - ********* finished TC003_LoginDDT *********
+15:34:10.731 [main] INFO  testCases.TC003_LoginDDT - ********* starting TC003_LoginDDT *********
+15:34:11.125 [main] INFO  testCases.TC003_LoginDDT - ********* Providing Credentilas to Login   *********
+15:34:13.524 [main] INFO  testCases.TC003_LoginDDT - ********* finished TC003_LoginDDT *********
+15:34:13.528 [main] INFO  testCases.TC003_LoginDDT - ********* starting TC003_LoginDDT *********
+15:34:13.975 [main] INFO  testCases.TC003_LoginDDT - ********* Providing Credentilas to Login   *********
+15:34:24.919 [main] INFO  testCases.TC003_LoginDDT - ********* finished TC003_LoginDDT *********
+12:18:47.759 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* starting TC001_AccountRegistrationTest  *********
+12:18:48.175 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount link
+12:18:48.789 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked Register link
+12:18:48.792 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details......
+12:18:50.306 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected massage......
+12:18:52.349 [main] INFO  testCases.TC001_AccountRegistrationTest - Confirmation message: Your Account Has Been Created!
+12:18:52.352 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* finished TC001_AccountRegistrationTest  *********
+12:18:59.188 [main] INFO  testCases.TC002_LoginTest - ********* starting TC002_LoginTest  *********
+12:18:59.907 [main] INFO  testCases.TC002_LoginTest - ********* Providing Credentilas to Login   *********
+12:19:01.908 [main] INFO  testCases.TC002_LoginTest - ********* Finished TC002_LoginTest  *********
+12:19:47.122 [main] INFO  testCases.TC002_LoginTest - ********* starting TC002_LoginTest  *********
+12:19:47.672 [main] INFO  testCases.TC002_LoginTest - ********* Providing Credentilas to Login   *********
+12:19:48.836 [main] INFO  testCases.TC002_LoginTest - ********* Finished TC002_LoginTest  *********
+14:08:45.903 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* starting TC001_AccountRegistrationTest  *********
+14:08:46.030 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount link
+14:08:46.691 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked Register link
+14:08:46.694 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details......
+14:08:48.158 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected massage......
+14:08:50.233 [main] INFO  testCases.TC001_AccountRegistrationTest - Confirmation message: Your Account Has Been Created!
+14:08:50.248 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* finished TC001_AccountRegistrationTest  *********
+14:08:53.678 [main] INFO  testCases.TC002_LoginTest - ********* starting TC002_LoginTest  *********
+14:08:54.171 [main] INFO  testCases.TC002_LoginTest - ********* Providing Credentilas to Login   *********
+14:08:55.355 [main] INFO  testCases.TC002_LoginTest - ********* Finished TC002_LoginTest  *********
+14:11:20.482 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* starting TC001_AccountRegistrationTest  *********
+14:11:20.666 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount link
+14:11:21.517 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked Register link
+14:11:21.520 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details......
+14:11:23.919 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected massage......
+14:11:25.955 [main] INFO  testCases.TC001_AccountRegistrationTest - Confirmation message: Your Account Has Been Created!
+14:11:25.955 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* finished TC001_AccountRegistrationTest  *********
+14:11:30.412 [main] INFO  testCases.TC002_LoginTest - ********* starting TC002_LoginTest  *********
+14:11:30.965 [main] INFO  testCases.TC002_LoginTest - ********* Providing Credentilas to Login   *********
+14:24:22.302 [main] INFO  testCases.TC002_LoginTest - ********* starting TC002_LoginTest  *********
+14:24:22.865 [main] INFO  testCases.TC002_LoginTest - ********* Providing Credentilas to Login   *********
+14:24:24.028 [main] INFO  testCases.TC002_LoginTest - ********* Finished TC002_LoginTest  *********
+14:30:21.114 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* starting TC001_AccountRegistrationTest  *********
+14:30:21.251 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount link
+14:30:22.802 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked Register link
+14:30:22.804 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details......
+14:30:23.391 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected massage......
+14:30:27.988 [main] INFO  testCases.TC001_AccountRegistrationTest - Confirmation message: Your Account Has Been Created!
+14:30:27.991 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* finished TC001_AccountRegistrationTest  *********
+14:30:32.091 [main] INFO  testCases.TC002_LoginTest - ********* starting TC002_LoginTest  *********
+14:30:32.999 [main] INFO  testCases.TC002_LoginTest - ********* Providing Credentilas to Login   *********
+13:13:21.173 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* starting TC001_AccountRegistrationTest  *********
+13:13:21.325 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount link
+13:13:22.537 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked Register link
+13:13:22.541 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details......
+13:13:23.956 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected massage......
+13:13:26.002 [main] INFO  testCases.TC001_AccountRegistrationTest - Confirmation message: Your Account Has Been Created!
+13:13:26.004 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* finished TC001_AccountRegistrationTest  *********
+13:13:30.909 [main] INFO  testCases.TC002_LoginTest - ********* starting TC002_LoginTest  *********
+13:13:31.439 [main] INFO  testCases.TC002_LoginTest - ********* Providing Credentilas to Login   *********
+13:13:32.903 [main] INFO  testCases.TC002_LoginTest - ********* Finished TC002_LoginTest  *********
+13:15:20.101 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* starting TC001_AccountRegistrationTest  *********
+13:15:20.276 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount link
+13:15:21.152 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked Register link
+13:15:21.157 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details......
+13:15:21.920 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected massage......
+13:15:24.002 [main] INFO  testCases.TC001_AccountRegistrationTest - Confirmation message: Your Account Has Been Created!
+13:15:24.006 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* finished TC001_AccountRegistrationTest  *********
+13:15:27.887 [main] INFO  testCases.TC002_LoginTest - ********* starting TC002_LoginTest  *********
+13:15:28.450 [main] INFO  testCases.TC002_LoginTest - ********* Providing Credentilas to Login   *********
+13:15:29.890 [main] INFO  testCases.TC002_LoginTest - ********* Finished TC002_LoginTest  *********
+13:17:59.058 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ********* starting TC001_AccountRegistrationTest  *********
+13:17:59.519 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount link
+13:18:00.330 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - clicked Register link
+13:18:00.333 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details......
+13:18:00.652 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ********* starting TC001_AccountRegistrationTest  *********
+13:18:01.020 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ********* starting TC001_AccountRegistrationTest  *********
+13:18:01.240 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount link
+13:18:01.709 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount link
+13:18:03.078 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - validating expected massage......
+13:18:14.076 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Confirmation message: null
+14:13:40.582 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ********* starting TC001_AccountRegistrationTest  *********
+14:13:40.758 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount link
+14:13:41.777 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked Register link
+14:13:41.780 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details......
+14:13:43.518 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - validating expected massage......
+14:13:45.575 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Confirmation message: Your Account Has Been Created!
+14:13:45.577 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ********* finished TC001_AccountRegistrationTest  *********
+14:13:47.820 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ********* starting TC002_LoginTest  *********
+14:13:48.507 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ********* Providing Credentilas to Login   *********
+14:13:49.714 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ********* Finished TC002_LoginTest  *********
+14:15:39.216 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ********* starting TC001_AccountRegistrationTest  *********
+14:15:39.604 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount link
+14:15:40.024 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked Register link
+14:15:40.026 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details......
+14:15:41.345 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - validating expected massage......
+14:15:43.419 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Confirmation message: Your Account Has Been Created!
+14:15:43.422 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ********* finished TC001_AccountRegistrationTest  *********
+14:15:48.239 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ********* starting TC002_LoginTest  *********
+14:15:48.780 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ********* Providing Credentilas to Login   *********
+14:15:49.754 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ********* Finished TC002_LoginTest  *********
+14:16:41.243 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ********* starting TC001_AccountRegistrationTest  *********
+14:16:41.569 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount link
+14:16:42.060 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked Register link
+14:16:42.064 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details......
+14:16:43.534 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - validating expected massage......
+14:16:45.603 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Confirmation message: Your Account Has Been Created!
+14:16:45.607 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ********* finished TC001_AccountRegistrationTest  *********
+14:16:51.690 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ********* starting TC002_LoginTest  *********
+14:16:52.385 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ********* Providing Credentilas to Login   *********
+14:16:53.323 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ********* Finished TC002_LoginTest  *********
+14:17:21.989 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ********* starting TC001_AccountRegistrationTest  *********
+14:17:22.314 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount link
+14:17:22.322 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ********* starting TC001_AccountRegistrationTest  *********
+14:17:23.003 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - clicked Register link
+14:17:23.005 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details......
+14:17:29.594 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - ********* starting TC002_LoginTest  *********
+14:17:30.182 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - ********* Providing Credentilas to Login   *********
+14:17:31.133 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - ********* Finished TC002_LoginTest  *********
+14:19:18.268 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ********* starting TC001_AccountRegistrationTest  *********
+14:19:18.548 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount link
+14:19:19.356 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - clicked Register link
+14:19:19.359 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details......
+14:19:20.617 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - validating expected massage......
+14:19:22.666 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Confirmation message: Your Account Has Been Created!
+14:19:22.668 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ********* finished TC001_AccountRegistrationTest  *********
+14:19:26.914 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - ********* starting TC002_LoginTest  *********
+14:19:27.557 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - ********* Providing Credentilas to Login   *********
+14:19:28.367 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - ********* Finished TC002_LoginTest  *********
+14:26:05.382 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* starting TC001_AccountRegistrationTest  *********
+14:26:05.598 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount link
+14:26:06.076 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked Register link
+14:26:06.080 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details......
+14:26:07.726 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected massage......
+14:26:09.778 [main] INFO  testCases.TC001_AccountRegistrationTest - Confirmation message: Your Account Has Been Created!
+14:26:09.781 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* finished TC001_AccountRegistrationTest  *********
+14:26:11.501 [main] INFO  testCases.TC002_LoginTest - ********* starting TC002_LoginTest  *********
+14:26:11.958 [main] INFO  testCases.TC002_LoginTest - ********* Providing Credentilas to Login   *********
+14:26:13.025 [main] INFO  testCases.TC002_LoginTest - ********* Finished TC002_LoginTest  *********
+14:26:19.855 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* starting TC001_AccountRegistrationTest  *********
+14:26:20.144 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount link
+14:26:20.801 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked Register link
+14:26:20.802 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details......
+14:26:22.199 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected massage......
+14:26:24.263 [main] INFO  testCases.TC001_AccountRegistrationTest - Confirmation message: Your Account Has Been Created!
+14:26:24.264 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* finished TC001_AccountRegistrationTest  *********
+14:26:28.742 [main] INFO  testCases.TC002_LoginTest - ********* starting TC002_LoginTest  *********
+14:26:29.388 [main] INFO  testCases.TC002_LoginTest - ********* Providing Credentilas to Login   *********
+14:26:30.229 [main] INFO  testCases.TC002_LoginTest - ********* Finished TC002_LoginTest  *********
+17:03:03.598 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* starting TC001_AccountRegistrationTest  *********
+17:03:04.443 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount link
+17:03:06.046 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked Register link
+17:03:06.049 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details......
+17:03:08.068 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected massage......
+17:03:10.115 [main] INFO  testCases.TC001_AccountRegistrationTest - Confirmation message: Your Account Has Been Created!
+17:03:10.119 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* finished TC001_AccountRegistrationTest  *********
+17:03:13.225 [main] INFO  testCases.TC002_LoginTest - ********* starting TC002_LoginTest  *********
+17:03:14.205 [main] INFO  testCases.TC002_LoginTest - ********* Providing Credentilas to Login   *********
+17:03:15.517 [main] INFO  testCases.TC002_LoginTest - ********* Finished TC002_LoginTest  *********
